@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(153, 217, 234);
+}
+
+h3 {
+	text-align: center;
+	font: Berlin Sans FB Demi;
+	font-size: xx-large;
+}
+
+#salida {
+	width: 70%;
+	height: 30%;
+}
+#estado {
+	width: 80%;
+	height: 50%;
+	color: red;
+	font-weight: bold; 
+	border-style: none none solid none;
+	
+	border-color: rgb(41, 169, 201);
+}
